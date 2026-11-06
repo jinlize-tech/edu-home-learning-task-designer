@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-SK-052",
+  "repository_name": "edu-home-learning-task-designer",
+  "product_type": "Skill",
+  "version": "1.0.0",
+  "package_path": "dist/edu-home-learning-task-designer-v1.0.0.zip",
+  "sha256": "FD905E6345BDB4A15A688189F2C49C7FBFFF8CA1DCC69488349E9EBCB1873A1F",
+  "bytes": 4884,
+  "entries": [
+    "edu-home-learning-task-designer/SKILL.md",
+    "edu-home-learning-task-designer/references/DOMAIN_GUIDE.md",
+    "edu-home-learning-task-designer/references/EXAMPLES.md",
+    "edu-home-learning-task-designer/templates/OUTPUT_TEMPLATE.md"
+  ],
+  "built_at": "2026-11-06T22:41:39.8255703+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}

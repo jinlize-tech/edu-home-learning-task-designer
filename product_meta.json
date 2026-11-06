@@ -1,0 +1,24 @@
+{
+  "number": 64,
+  "product_id": "JLZ-EDU-SK-052",
+  "chinese_name": "家庭学习任务设计",
+  "english_name": "Home Learning Task Designer",
+  "repository_name": "edu-home-learning-task-designer",
+  "product_type": "Skill",
+  "category": "05 家校服务中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-home-learning-task-designer-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "学生年级学科、近期目标、家庭可用时间、设备材料、家长能力和安全限制",
+  "main_output": "家庭任务、时间安排、所需材料、家长指导、完成标准和反馈表",
+  "package_entries": [
+    "edu-home-learning-task-designer/SKILL.md",
+    "edu-home-learning-task-designer/references/DOMAIN_GUIDE.md",
+    "edu-home-learning-task-designer/references/EXAMPLES.md",
+    "edu-home-learning-task-designer/templates/OUTPUT_TEMPLATE.md"
+  ]
+}
