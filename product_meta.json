@@ -6,19 +6,38 @@
   "repository_name": "edu-home-learning-task-designer",
   "product_type": "Skill",
   "category": "05 家校服务中心",
-  "version": "1.0.0",
-  "status": "PACKAGE_READY",
-  "workbuddy_validation": "NOT_VERIFIED",
+  "version": "1.0.1",
+  "previous_version": "1.0.0",
+  "g5_status": "G5_STRENGTHENED",
+  "status": "G9_PRE_RELEASE_ACCEPTED",
+  "package_state": "GITHUB_PACKAGE_PRE_RELEASE_READY",
+  "runtime_status": "NOT_RUNTIME_VERIFIED",
+  "workbuddy_validation": "WORKBUDDY_VALIDATION_NOT_IN_SCOPE",
   "license": "Apache-2.0",
   "baseline_tag": "education-product-baseline-v1.0.0",
-  "package_path": "dist/edu-home-learning-task-designer-v1.0.0.zip",
+  "baseline_commit": "ae023fae4843ce0ca3ed810d523a656bd674b2ab",
+  "package_path": "dist/edu-home-learning-task-designer-v1.0.1.zip",
+  "previous_package_path": "dist/edu-home-learning-task-designer-v1.0.0.zip",
+  "previous_package_sha256": "FD905E6345BDB4A15A688189F2C49C7FBFFF8CA1DCC69488349E9EBCB1873A1F",
   "calculator": false,
   "core_input": "学生年级学科、近期目标、家庭可用时间、设备材料、家长能力和安全限制",
   "main_output": "家庭任务、时间安排、所需材料、家长指导、完成标准和反馈表",
+  "main_output_fields": [
+    "家庭任务",
+    "时间安排",
+    "所需材料",
+    "家长指导",
+    "完成标准和反馈表"
+  ],
   "package_entries": [
     "edu-home-learning-task-designer/SKILL.md",
     "edu-home-learning-task-designer/references/DOMAIN_GUIDE.md",
     "edu-home-learning-task-designer/references/EXAMPLES.md",
-    "edu-home-learning-task-designer/templates/OUTPUT_TEMPLATE.md"
+    "edu-home-learning-task-designer/templates/OUTPUT_TEMPLATE.md",
+    "edu-home-learning-task-designer/README.md",
+    "edu-home-learning-task-designer/USAGE.md",
+    "edu-home-learning-task-designer/LICENSE",
+    "edu-home-learning-task-designer/THIRD_PARTY_NOTICES.md",
+    "edu-home-learning-task-designer/scripts/validate_input.js"
   ]
 }

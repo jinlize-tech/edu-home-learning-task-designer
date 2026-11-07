@@ -2,17 +2,29 @@
   "product_id": "JLZ-EDU-SK-052",
   "repository_name": "edu-home-learning-task-designer",
   "product_type": "Skill",
-  "version": "1.0.0",
-  "package_path": "dist/edu-home-learning-task-designer-v1.0.0.zip",
-  "sha256": "FD905E6345BDB4A15A688189F2C49C7FBFFF8CA1DCC69488349E9EBCB1873A1F",
-  "bytes": 4884,
+  "version": "1.0.1",
+  "package_path": "dist/edu-home-learning-task-designer-v1.0.1.zip",
+  "sha256": "57C436298BAAADAA5DF32A4FB5C82661C244369EE387ADBDAB4764E1C29E7856",
+  "bytes": 14642,
   "entries": [
     "edu-home-learning-task-designer/SKILL.md",
     "edu-home-learning-task-designer/references/DOMAIN_GUIDE.md",
     "edu-home-learning-task-designer/references/EXAMPLES.md",
-    "edu-home-learning-task-designer/templates/OUTPUT_TEMPLATE.md"
+    "edu-home-learning-task-designer/templates/OUTPUT_TEMPLATE.md",
+    "edu-home-learning-task-designer/README.md",
+    "edu-home-learning-task-designer/USAGE.md",
+    "edu-home-learning-task-designer/LICENSE",
+    "edu-home-learning-task-designer/THIRD_PARTY_NOTICES.md",
+    "edu-home-learning-task-designer/scripts/validate_input.js"
   ],
-  "built_at": "2026-11-06T22:41:39.8255703+08:00",
-  "status": "PACKAGE_READY",
-  "workbuddy_validation": "NOT_VERIFIED"
+  "license": "Apache-2.0",
+  "license_included": true,
+  "license_sha256": "CFC7749B96F63BD31C3C42B5C471BF756814053E847C10F3EB003417BC523D30",
+  "third_party_notice_included": true,
+  "previous_package_path": "dist/edu-home-learning-task-designer-v1.0.0.zip",
+  "previous_package_sha256": "FD905E6345BDB4A15A688189F2C49C7FBFFF8CA1DCC69488349E9EBCB1873A1F",
+  "built_at": "2026-11-07T09:16:23.1111284+08:00",
+  "status": "GITHUB_PACKAGE_PRE_RELEASE_READY",
+  "runtime_status": "NOT_RUNTIME_VERIFIED",
+  "workbuddy_validation": "WORKBUDDY_VALIDATION_NOT_IN_SCOPE"
 }
